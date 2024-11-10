@@ -1,0 +1,11 @@
+COMMENT: This files is an example of the BMS with minimum requirements. Even an object for play is not included.
+#BACKBMP symmetry.bmp
+
+#TITLE Symmetry
+#ARTIST 猫叉Master
+#GENRE EPIC ELECTRONICA
+#PLAYLEVEL 6
+#DIFFICULTY 2
+#PLAYER 1
+#WAV01 0001.wav
+#WAV02 0002.wav
